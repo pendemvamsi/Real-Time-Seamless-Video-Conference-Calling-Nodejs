@@ -1,5 +1,5 @@
 {
-  "name": "livestream-server",
+  "name": "Real-Time-Seamless-Video-Conference-Calling-Nodejs",
   "version": "0.0.1",
   "description": "A conference call implementation using WebRTC, Socket.io and Node.js.",
   "main": "src/app.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amirsanni/livestream-server.git"
+    "url": "https://github.com/pendemvamsi/Real-Time-Seamless-Video-Conference-Calling-Nodejs.git"
   },
   "keywords": [
     "LiveStream",
@@ -27,7 +27,7 @@
   "author": "Amir Sanni <amirsanni@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amirsanni/livestream-server/issues"
+    "url": "https://github.com/pendemvamsi/Real-Time-Seamless-Video-Conference-Calling-Nodejs.git"
   },
-  "homepage": "https://github.com/amirsanni/livestream-server#readme"
+  "homepage": "https://github.com/pendemvamsi/Real-Time-Seamless-Video-Conference-Calling-Nodejs.git"
 }

@@ -1,0 +1,6 @@
+[build]
+  functions = "functions"  # This tells Netlify where to look for serverless functions
+  publish = "public"       # Directory containing your static files (if any)
+
+[context.production.environment]
+  NODE_ENV = "production"
